@@ -1,0 +1,40 @@
+body {
+	width:700px;
+	margin:0 auto;
+}
+
+footer {
+	text-align: center;
+	color:#666;
+	margin-top:250px;
+}
+
+
+h1 {
+	text-align:center;
+	letter-spacing: 3px;
+
+	font-family: 'Playfair Display', serif
+}
+
+
+nav  {
+	text-align: center;
+}
+
+nav a {
+	color:#000;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+
+nav a[href="#"] {
+	color:#912;
+}
+
+
+p {
+	line-height: 1.5
+}
